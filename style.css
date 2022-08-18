@@ -22,3 +22,11 @@
   height: 40px;
   background-color: rgb(117, 168, 104);
 }
+
+#text-learn {
+  text-align: center;
+}
+
+.column side {
+  text-align: left;
+}

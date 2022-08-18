@@ -9,9 +9,16 @@
 
 #titulo {
   text-align: center;
-  color: #fdf9fc;
+  color: rgb(253, 249, 252);
 }
 
 #minha_foto {
   width: 15%;
+}
+
+#rodape {
+  margin-bottom: 50px;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(117, 168, 104);
 }

@@ -3,7 +3,9 @@
 }
 
 #cabecalho {
-  top: 0 fixed;
+  top: 0;
+  width: 100%;
+  position: fixed;
   background-color: rgb(117, 168, 104);
 }
 

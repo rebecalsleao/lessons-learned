@@ -2,19 +2,17 @@
   background-color: rgb(253, 251, 251);
 }
 
-#cabecalho {
+#cabecalho h1 {
+  position: fixed;
   top: 0;
   width: 100%;
-  position: fixed;
   background-color: rgb(117, 168, 104);
-}
-
-#titulo {
   text-align: center;
   color: rgb(253, 249, 252);
 }
 
 #minha_foto {
+  margin-top: 80px;
   width: 13%;
 }
 

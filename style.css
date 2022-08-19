@@ -2,7 +2,8 @@
   background-color: rgb(253, 251, 251);
 }
 
-#cabecalho #titulo {
+#cabecalho,
+#titulo {
   position: fixed;
   top: 0;
   width: 100%;

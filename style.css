@@ -2,13 +2,11 @@
   background-color: rgb(253, 251, 251);
 }
 
-#cabecalho #titulo {
+#cabecalho {
   position: fixed;
   top: 0;
   width: 100%;
   background-color: rgb(117, 168, 104);
-  text-align: center;
-  color: rgb(253, 249, 252);
 }
 
 #minha_foto {

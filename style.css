@@ -2,11 +2,13 @@
   background-color: rgb(253, 251, 251);
 }
 
-#cabecalho {
+#cabecalho h1 {
   position: fixed;
   top: 0;
   width: 100%;
   background-color: rgb(117, 168, 104);
+  text-align: center;
+  color: rgb(253, 249, 252);
 }
 
 #minha_foto {
@@ -28,23 +30,19 @@ tr:nth-child(even) {
   height: 40px;
   background-color: rgb(117, 168, 104);
 }
-
 #text-learn {
   text-align: center;
 }
-
 .column-side {
   text-align: center;
   display: table-footer-group;
 }
-
 p,
 li,
 th,
 td {
   font-family: "Dosis", sans-serif;
 }
-
 h1,
 h2 {
   font-family: "Dosis", sans-serif;

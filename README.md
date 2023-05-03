@@ -1,7 +1,9 @@
-About The Project
-#DESENVOLVIDO 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Nesse projeto verá um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. .
+#DESENVOLVIDO
+
+Nesse projeto verá um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos.
 
 #HABILIDADES
 
